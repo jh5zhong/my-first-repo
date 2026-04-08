@@ -1,6 +1,6 @@
-# my-first-repo
-这是我的第一个GitHub仓库
 # 我的第一个仓库
+
+这是我的第一个GitHub仓库
 
 欢迎来到我的 GitHub！
 
