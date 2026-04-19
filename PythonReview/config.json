@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "skin": "light",
+    "locale": "zh_CN",
+    "encoding": "UTF-8",
+    "subject": "0000",
+    "email": "aa.bb@zte.com.cn",
+    "imsi": [
+        "460112101084805",
+        "460112101085218",
+        "460112101085219",
+        "460112101096407"
+    ],
+    "emailFlag": 0
+}
